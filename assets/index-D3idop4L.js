@@ -14248,7 +14248,7 @@ function e0() {
             children: y.jsx("img", { src: "/img/x.svg", alt: "" }),
           }),
           y.jsx("a", {
-            href: "https://www.dextools.io/app/en/ether/",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x69be1a0f02f2591003f0feae5f5bf3ebcf3a2e82?t=1740125473931",
             target: "_blank",
             className: "App_gde_el",
             children: y.jsx("img", { src: "/img/dex.svg", alt: "" }),
