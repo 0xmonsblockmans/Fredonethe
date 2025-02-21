@@ -14236,13 +14236,13 @@ function e0() {
         className: "App_gde",
         children: [
           y.jsx("a", {
-            href: "https://t.me/",
+            href: "https://t.me/fredcoinoneth",
             target: "_blank",
             className: "App_gde_el",
             children: y.jsx("img", { src: "/img/tg.svg", alt: "" }),
           }),
           y.jsx("a", {
-            href: "https://x.com/",
+            href: "https://x.com/Fredmemeoneth",
             target: "_blank",
             className: "App_gde_el",
             children: y.jsx("img", { src: "/img/x.svg", alt: "" }),
